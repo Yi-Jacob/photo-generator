@@ -7,7 +7,7 @@ import { PhotosService } from '../photos.service';
   styleUrls: ['./photo-show.component.css']
 })
 export class PhotoShowComponent implements OnInit {
-  photoUrl: string;
+  photoUrl!: string;
 
   constructor(private photosService: PhotosService) {
     this.fetchPhoto();

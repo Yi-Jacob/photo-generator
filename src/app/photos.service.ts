@@ -19,7 +19,7 @@ export class PhotosService {
       {
         headers: {
           Authorization:
-            'Client-ID 08d19507529308e6b6874e4bce18a309019a26273da0556b967fa3969e972cf1'
+            'Client-ID 2vCFkq7xWrqq5Ueta41dxS6wrkX1SD4VxLKlGRJ7nbU'
         }
       }
     );
